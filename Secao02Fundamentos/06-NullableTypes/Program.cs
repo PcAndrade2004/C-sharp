@@ -8,6 +8,7 @@ int b = i ?? 0;
 Console.WriteLine(b);
 
 int? idade = null;
+idade = 30;
 if (idade.HasValue) {
     Console.WriteLine(idade.Value + " anos");
 } else {

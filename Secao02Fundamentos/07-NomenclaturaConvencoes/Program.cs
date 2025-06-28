@@ -13,6 +13,4 @@ int idade1;
 //int valor#total;
 //string nome completo;
 
-
-
 Console.ReadKey();
