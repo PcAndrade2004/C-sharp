@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-TipoDeReferencia", "04-T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-DataHora", "05-DataHora\05-DataHora.csproj", "{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-NullableTypes", "06-NullableTypes\06-NullableTypes.csproj", "{3352FDBB-B0C1-4A09-B46C-0C25C27260B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3352FDBB-B0C1-4A09-B46C-0C25C27260B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3352FDBB-B0C1-4A09-B46C-0C25C27260B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3352FDBB-B0C1-4A09-B46C-0C25C27260B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3352FDBB-B0C1-4A09-B46C-0C25C27260B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
