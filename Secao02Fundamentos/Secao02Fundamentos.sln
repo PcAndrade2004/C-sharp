@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-TipoDeReferencia", "04-TipoDeReferencia\04-TipoDeReferencia.csproj", "{0FA67A9C-28F6-4B15-90CE-A7372F87EB9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-DataHora", "05-DataHora\05-DataHora.csproj", "{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0FA67A9C-28F6-4B15-90CE-A7372F87EB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA67A9C-28F6-4B15-90CE-A7372F87EB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA67A9C-28F6-4B15-90CE-A7372F87EB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17AFA8D-A987-419C-B1D3-58A5CFDAA26A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
