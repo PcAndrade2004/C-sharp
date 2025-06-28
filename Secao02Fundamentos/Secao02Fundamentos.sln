@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-NullableTypes", "06-Null
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-NomenclaturaConvencoes", "07-NomenclaturaConvencoes\07-NomenclaturaConvencoes.csproj", "{557AB7B9-50E1-44C3-BD81-09C6603C8CAB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExercicioFase1", "ExercicioFase1", "{D9F101D5-5556-4333-90A5-F5B030F999C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
