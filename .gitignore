@@ -1,0 +1,29 @@
+/CSFundamentos.sln
+
+# ------------------------------
+# Arquivos de IDEs e configuração local
+# ------------------------------
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ------------------------------
+# Compilação (builds)
+# ------------------------------
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.apphost.exe
+*.runtimeconfig.json
+*.deps.json
+
+# ------------------------------
+# NuGet
+# ------------------------------
+*.nu*
+
