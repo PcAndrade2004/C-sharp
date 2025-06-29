@@ -4,17 +4,17 @@ int idade = 20;
 string nome = "Paulo";
 
 //Escrever na mesma linha
-Console.WriteLine(nome);
-Console.WriteLine("tem ");
-Console.WriteLine(idade);
-Console.WriteLine("nos \n");
+Console.Write(nome);
+Console.Write("tem ");
+Console.Write(idade);
+Console.Write("nos \n");
 
 //Concatenação : usando operador de +
 Console.WriteLine("-----Usando Concatenação-----");
 Console.WriteLine(nome + " tem " + idade + " anos\n");
 
 //Interpolação de string : $ -> a interpolação {}
-Console.WriteLine("-----Concatenação de string-----");
+Console.WriteLine("\n-----Interpolação de string-----");
 Console.WriteLine($"{nome} tem {idade} anos");
 
 //usando place holder : usa {} com numéração com inicio em zero
